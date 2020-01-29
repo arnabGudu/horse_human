@@ -7,3 +7,5 @@ Created on Thu Jan 30 03:14:21 2020
 """
 
 
+import torch
+import torchvision
